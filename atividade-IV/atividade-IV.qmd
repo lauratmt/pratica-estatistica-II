@@ -3,11 +3,12 @@ title: "PRÁTICA ESTATÍSTICA 2"
 subtitle: "Dupla 8: Laura Monteiro e Felipe Ceacero"
 format:
   revealjs:
-    theme: solarized
+    theme:
+      solarized
+      styles.scss
     slide-number: true
     transition: fade
     center: true
-    css: styles.scss
 ---
 
 ## Avaliação Nutricional e Consumo Alimentar de Pacientes com Insuficiência Renal Crônica
