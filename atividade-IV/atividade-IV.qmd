@@ -1,0 +1,103 @@
+---
+title: "PRÁTICA ESTATÍSTICA 2"
+subtitle: "Dupla 8: Laura Monteiro e Felipe Ceacero"
+format:
+  revealjs:
+    theme: solarized
+    slide-number: true
+    transition: fade
+    center: true
+    css: styles.scss
+---
+
+## Avaliação Nutricional e Consumo Alimentar de Pacientes com Insuficiência Renal Crônica
+
+###  Ellen Favalessa et al.
+
+## Introdução
+### Motivação da pesquisa
+::: {.callout-tip}
+- A doença renal crônica é um problema de saúde pública crescente, com impacto direto na qualidade de vida dos pacientes
+- Pacientes em hemodiálise passam por alterações metabólicas e restrições alimentares que podem comprometer o estado nutricional
+- A desnutrição é comum nesses indivíduos e pode aumentar o risco de complicações e piora clínica.
+- Assim, surge a importância de avaliar o estado nutricional e o consumo alimentar para melhorar o acompanhamento e tratamento.
+:::
+
+------------------------------------------------------------------------
+
+## Introdução
+### Objetivo do artigo
+::: {.callout-tip}
+- Avaliar o estado nutricional de pacientes com doença renal crônica em hemodiálise
+- Analisar o consumo alimentar, incluindo energia e nutrientes como proteínas, cálcio e fósforo
+- Utilizar medidas antropométricas e parâmetros bioquímicos para caracterizar os pacientes
+- Verificar diferenças entre grupos (como sexo e estado nutricional) por meio de testes estatísticos
+:::
+
+------------------------------------------------------------------------
+
+## Introdução
+### Coleta da amostra
+::: {.callout-tip}
+- Foram avaliados 121 pacientes de uma clínica de hemodiálise na Serra (ES), com idades entre 19 e 81 anos
+- Foram utilizados recordatórios alimentares de 24 horas em três dias diferentes para avaliar a dieta
+- Também foram coletadas medidas antropométricas e dados bioquímicos dos prontuários
+- Informações socioeconômicas e de saúde foram obtidas por meio de entrevistas com os participantes
+:::
+
+------------------------------------------------------------------------
+
+## Metodologia Estatística
+### Variáveis Analisadas
+::: {.callout-tip}
+- O estado nutricional foi a principal variável de interesse, avaliado por indicadores como IMC, circunferência muscular do braço (CMB) e dobra cutânea triciptal (DCT)
+- Parâmetros bioquímicos, como fósforo, cálcio e albumina, para complementar essa avaliação
+- Como fatores de exposição, analisaram-se características dos pacientes, como sexo, idade e consumo alimentar
+- Essas variáveis permitiram comparar grupos e investigar associações relacionadas ao estado nutricional
+:::
+
+------------------------------------------------------------------------
+
+## Metodologia Estatística
+### Testes Estatísticos
+::: {.callout-tip}
+- Teste t de Student: para comparar médias entre dois grupos
+- ANOVA: quando a comparação envolvia mais de dois grupos
+- Tukey: realizado após a ANOVA, para identificar quais grupos apresentavam diferença entre si
+- Qui-quadrado/Fisher: para analisar proporções entre grupos
+- Em todos os testes, foi adotado um nível de significância de 5% <br>
+(p ≤ 0,05), indicando quando os resultados eram estatisticamente significativos.
+:::
+
+------------------------------------------------------------------------
+
+## Conclusão
+### Principais achados
+::: {.callout-tip}
+- A maioria dos pacientes apresentou bom estado nutricional (52%), embora parte deles tenha sido classificada com sobrepeso
+- Foram identificadas diferenças entre grupos, especialmente entre homens e mulheres e entre diferentes estados nutricionais
+- O consumo alimentar mostrou-se, em geral, abaixo do recomendado, indicando possíveis inadequações na dieta
+- Os parâmetros bioquímicos apresentaram associação com o estado nutricional, reforçando a importância da avaliação conjunta
+:::
+
+------------------------------------------------------------------------
+
+## Conclusão
+### Importância dos testes de hipóteses
+::: {.callout-tip}
+- Permitem identificar se as diferenças observadas entre os grupos são reais ou aleatórias
+- Maior rigor científico à análise dos dados
+- P-valor como ferramenta para indicar quando os resultados são estatisticamente significativos
+- Garantem maior confiabilidade às conclusões do estudo
+:::
+
+------------------------------------------------------------------------
+
+## Conclusão
+### Contribuições para a sociedade
+::: {.callout-tip}
+- Melhor compreensão do estado nutricional de pacientes com doença renal crônica
+- Os resultados podem auxiliar profissionais de saúde no planejamento de intervenções nutricionais mais adequadas
+- Reforça a importância do acompanhamento alimentar em pacientes em hemodiálise
+- As ações tomadas com base nesses estudos, pode contribuir para a melhoria da qualidade de vida e do tratamento desses indivíduos
+:::
