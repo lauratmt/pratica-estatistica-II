@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "atividade-IV.html#avaliação-nutricional-e-consumo-alimentar-de-pacientes-com-insuficiência-renal-crônica",
+    "href": "atividade-IV.html#avaliação-nutricional-e-consumo-alimentar-de-pacientes-com-insuficiência-renal-crônica",
+    "title": "PRÁTICA ESTATÍSTICA 2",
+    "section": "Avaliação Nutricional e Consumo Alimentar de Pacientes com Insuficiência Renal Crônica",
+    "text": "Avaliação Nutricional e Consumo Alimentar de Pacientes com Insuficiência Renal Crônica\nEllen Favalessa et al."
+  },
+  {
+    "objectID": "atividade-IV.html#introdução",
+    "href": "atividade-IV.html#introdução",
+    "title": "PRÁTICA ESTATÍSTICA 2",
+    "section": "Introdução",
+    "text": "Introdução\nMotivação da pesquisa\n\n\n\n\n\n\nTip\n\n\n\nA doença renal crônica é um problema de saúde pública crescente, com impacto direto na qualidade de vida dos pacientes\nPacientes em hemodiálise passam por alterações metabólicas e restrições alimentares que podem comprometer o estado nutricional\nA desnutrição é comum nesses indivíduos e pode aumentar o risco de complicações e piora clínica.\nAssim, surge a importância de avaliar o estado nutricional e o consumo alimentar para melhorar o acompanhamento e tratamento."
+  },
+  {
+    "objectID": "atividade-IV.html#introdução-1",
+    "href": "atividade-IV.html#introdução-1",
+    "title": "PRÁTICA ESTATÍSTICA 2",
+    "section": "Introdução",
+    "text": "Introdução\nObjetivo do artigo\n\n\n\n\n\n\nTip\n\n\n\nAvaliar o estado nutricional de pacientes com doença renal crônica em hemodiálise\nAnalisar o consumo alimentar, incluindo energia e nutrientes como proteínas, cálcio e fósforo\nUtilizar medidas antropométricas e parâmetros bioquímicos para caracterizar os pacientes\nVerificar diferenças entre grupos (como sexo e estado nutricional) por meio de testes estatísticos"
+  },
+  {
+    "objectID": "atividade-IV.html#introdução-2",
+    "href": "atividade-IV.html#introdução-2",
+    "title": "PRÁTICA ESTATÍSTICA 2",
+    "section": "Introdução",
+    "text": "Introdução\nColeta da amostra\n\n\n\n\n\n\nTip\n\n\n\nForam avaliados 121 pacientes de uma clínica de hemodiálise na Serra (ES), com idades entre 19 e 81 anos\nForam utilizados recordatórios alimentares de 24 horas em três dias diferentes para avaliar a dieta\nTambém foram coletadas medidas antropométricas e dados bioquímicos dos prontuários\nInformações socioeconômicas e de saúde foram obtidas por meio de entrevistas com os participantes"
+  },
+  {
+    "objectID": "atividade-IV.html#metodologia-estatística",
+    "href": "atividade-IV.html#metodologia-estatística",
+    "title": "PRÁTICA ESTATÍSTICA 2",
+    "section": "Metodologia Estatística",
+    "text": "Metodologia Estatística\nVariáveis Analisadas\n\n\n\n\n\n\nTip\n\n\n\nO estado nutricional foi a principal variável de interesse, avaliado por indicadores como IMC, circunferência muscular do braço (CMB) e dobra cutânea triciptal (DCT)\nParâmetros bioquímicos, como fósforo, cálcio e albumina, para complementar essa avaliação\nComo fatores de exposição, analisaram-se características dos pacientes, como sexo, idade e consumo alimentar\nEssas variáveis permitiram comparar grupos e investigar associações relacionadas ao estado nutricional"
+  },
+  {
+    "objectID": "atividade-IV.html#metodologia-estatística-1",
+    "href": "atividade-IV.html#metodologia-estatística-1",
+    "title": "PRÁTICA ESTATÍSTICA 2",
+    "section": "Metodologia Estatística",
+    "text": "Metodologia Estatística\nTestes Estatísticos\n\n\n\n\n\n\nTip\n\n\n\nTeste t de Student: para comparar médias entre dois grupos\nANOVA: quando a comparação envolvia mais de dois grupos\nTukey: realizado após a ANOVA, para identificar quais grupos apresentavam diferença entre si\nQui-quadrado/Fisher: para analisar proporções entre grupos\nEm todos os testes, foi adotado um nível de significância de 5%  (p ≤ 0,05), indicando quando os resultados eram estatisticamente significativos."
+  },
+  {
+    "objectID": "atividade-IV.html#conclusão",
+    "href": "atividade-IV.html#conclusão",
+    "title": "PRÁTICA ESTATÍSTICA 2",
+    "section": "Conclusão",
+    "text": "Conclusão\nPrincipais achados\n\n\n\n\n\n\nTip\n\n\n\nA maioria dos pacientes apresentou bom estado nutricional (52%), embora parte deles tenha sido classificada com sobrepeso\nForam identificadas diferenças entre grupos, especialmente entre homens e mulheres e entre diferentes estados nutricionais\nO consumo alimentar mostrou-se, em geral, abaixo do recomendado, indicando possíveis inadequações na dieta\nOs parâmetros bioquímicos apresentaram associação com o estado nutricional, reforçando a importância da avaliação conjunta"
+  },
+  {
+    "objectID": "atividade-IV.html#conclusão-1",
+    "href": "atividade-IV.html#conclusão-1",
+    "title": "PRÁTICA ESTATÍSTICA 2",
+    "section": "Conclusão",
+    "text": "Conclusão\nImportância dos testes de hipóteses\n\n\n\n\n\n\nTip\n\n\n\nPermitem identificar se as diferenças observadas entre os grupos são reais ou aleatórias\nMaior rigor científico à análise dos dados\nP-valor como ferramenta para indicar quando os resultados são estatisticamente significativos\nGarantem maior confiabilidade às conclusões do estudo"
+  },
+  {
+    "objectID": "atividade-IV.html#conclusão-2",
+    "href": "atividade-IV.html#conclusão-2",
+    "title": "PRÁTICA ESTATÍSTICA 2",
+    "section": "Conclusão",
+    "text": "Conclusão\nContribuições para a sociedade\n\n\n\n\n\n\nTip\n\n\n\nMelhor compreensão do estado nutricional de pacientes com doença renal crônica\nOs resultados podem auxiliar profissionais de saúde no planejamento de intervenções nutricionais mais adequadas\nReforça a importância do acompanhamento alimentar em pacientes em hemodiálise\nAs ações tomadas com base nesses estudos, pode contribuir para a melhoria da qualidade de vida e do tratamento desses indivíduos"
+  }
+]

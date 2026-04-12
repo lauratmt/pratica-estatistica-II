@@ -1,0 +1,6 @@
+project:
+  type: website
+
+format:
+  revealjs:
+    theme: solarized
