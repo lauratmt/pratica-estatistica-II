@@ -42,6 +42,27 @@
     "text": "Metodologia Estatística\nTestes Estatísticos\n\n\n\n\n\n\nTip\n\n\n\nTeste t de Student: para comparar médias entre dois grupos\nANOVA: quando a comparação envolvia mais de dois grupos\nTukey: realizado após a ANOVA, para identificar quais grupos apresentavam diferença entre si\nQui-quadrado/Fisher: para analisar proporções entre grupos\nEm todos os testes, foi adotado um nível de significância de 5%  (p ≤ 0,05), indicando quando os resultados eram estatisticamente significativos."
   },
   {
+    "objectID": "atividade-IV.html#resultados",
+    "href": "atividade-IV.html#resultados",
+    "title": "PRÁTICA ESTATÍSTICA 2",
+    "section": "Resultados",
+    "text": "Resultados\nPerfil geral da amostra\n\n\n\nResultado\nEvidência\n\n\n\n\nPredominância de homens\n59,5%\n\n\nFaixa etária mais frequente\n50–65 anos (33,9%)\n\n\nBaixa escolaridade\n63,6% com ensino fundamental incompleto\n\n\nPrincipal etiologia da DRC\nHipertensão arterial sistêmica (53,7%)\n\n\nMaioria em início de hemodiálise\n47,1% com &lt; 1 ano\n\n\n\n\n\n\n\n\n\n::: {.callout-tip} :::"
+  },
+  {
+    "objectID": "atividade-IV.html#resultados-1",
+    "href": "atividade-IV.html#resultados-1",
+    "title": "PRÁTICA ESTATÍSTICA 2",
+    "section": "Resultados",
+    "text": "Resultados\nAssociação entre sexo e indicadores antropométricos\n\n\n\n\n\n\nTip\n\n\n\nMulheres apresentaram maior prevalência de sobrepeso\nMulheres apresentaram maior CMB\n\n\n\n\n\n\n\nVariável\nResultado\np-valor\n\n\n\n\nIMC\n31,9%\n41%\n\n\nCMB\n84%\n94,2%"
+  },
+  {
+    "objectID": "atividade-IV.html#resultados-2",
+    "href": "atividade-IV.html#resultados-2",
+    "title": "PRÁTICA ESTATÍSTICA 2",
+    "section": "Resultados",
+    "text": "Resultados\nParâmetros bioquímicos e estado nutricional\n\n\n\n\n\n\nTip\n\n\n\nApenas o fósforo sérico apresentou associação significativa com o estado nutricional (IMC).\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\n\n\n\n\n\n\n\n\nParâmetro\nAssociação com IMC\np-valor\nConclusão\n\n\n\n\nFósforo sérico\nMaior no sobrepeso\n0,032\nAssociação significativa\n\n\nAlbumina\nSem diferença\n0,932\nNão associado\n\n\nCreatinina\nTendência de diferença\n0,092\nNão significativo\n\n\nCálcio\nSem diferença\n0,252\nNão associado\n\n\nPNA\nSem diferença\n0,633\nNão associado"
+  },
+  {
     "objectID": "atividade-IV.html#conclusão",
     "href": "atividade-IV.html#conclusão",
     "title": "PRÁTICA ESTATÍSTICA 2",
